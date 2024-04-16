@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/%20Banner.png)
+![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Deepak Chaudhary</h1>
 <h3 align="center">A passionate Software Developer and BTech student from India</h3>
