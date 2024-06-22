@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AI, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/phoenixdev100/phoenixdev100/issues)**
 
 ⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
 
