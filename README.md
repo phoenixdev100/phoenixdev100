@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:support@deepakchaudahry.tech">
+  <a href="mailto:support@deepakchaudhary.tech">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/deepak-chaudhary-phoenix-dev" target="_blank">
