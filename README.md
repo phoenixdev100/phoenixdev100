@@ -1,7 +1,7 @@
 ![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/Github%20Banner.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Chaudhary!;+I'm+a+software+Developer;+and+a+system+Admin;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Chaudhary!;+I'm+a+software+Developer;+and+a+system+Admin;+I'm+a+Database+Admin;+I'm+a+coder;+I'm+a+Database+Administrator;+and+a+tech+enthusiast+too.;"/>
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
