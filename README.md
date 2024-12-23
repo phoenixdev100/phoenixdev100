@@ -8,8 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <!--Bio/About Part-->
 
 <h1 align="center">
