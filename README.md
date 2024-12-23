@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Bio/About Part-->
 
@@ -60,7 +60,7 @@
     <img width="150px" src="https://komarev.com/ghpvc/?username=phoenixdev100&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixdev100" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
  <!--Languages and Frameworks-->
  
@@ -72,7 +72,7 @@
 </div>
 
 <br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Contributions-->
 
@@ -83,7 +83,7 @@
   <br/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Github Stats-->
 
@@ -104,7 +104,7 @@
 </p>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Achievements and Awards-->
 
@@ -113,7 +113,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=phoenixdev100&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Projects Showcase-->
 
@@ -133,12 +133,12 @@
   </a>
 </div>
 
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="3"  />-->
+<br/> <br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Ending Line-->
 
 <br/>
-<h2><h2/>
 <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
 </div>
