@@ -118,7 +118,7 @@
 <h2 align="center">🛠️ Projects Showcase</h2>
 <div align="center">
   <a href="https://github.com/phoenixdev100/virtual-herbal-garden">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=virtual-herbal-garden&theme=react&border_radius=10" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=attendance-assistant&theme=react&border_radius=10" alt="Project 1" />
   </a>
   <a href="https://github.com/phoenixdev100/Global-Hospitals">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=global-hospitals&theme=react&border_radius=10" alt="Project 2" />
