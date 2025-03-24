@@ -40,7 +40,7 @@
 <a href="https://github.com/phoenixdev100">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:support@deepakchaudhary.tech">
+  <a href="mailto:support@phoenixdev100.tech">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://codolio.com/profile/phoenixdev100">
@@ -117,7 +117,7 @@
 
 <h2 align="center">🛠️ Projects Showcase</h2>
 <div align="center">
-  <a href="https://github.com/phoenixdev100/virtual-herbal-garden">
+  <a href="https://github.com/phoenixdev100/attendance-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=attendance-assistant&theme=react&border_radius=10" alt="Project 1" />
   </a>
   <a href="https://github.com/phoenixdev100/Global-Hospitals">
