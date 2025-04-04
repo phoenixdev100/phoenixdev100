@@ -14,7 +14,7 @@
 <!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Deepak,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems+💡;Tech+Enthusiast+⚡+and+Lifelong+Learner+📚;Problem+Solver+who+loves+clean+code+🧠;System+Admin+%26+Database+Expert+🛠️;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Deepak,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
 </h1>
 
 
@@ -29,15 +29,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AI Finance System**
+ 🔭 I’m currently working on **Learnify Web App**
  
- 🌱 I’m currently learning **Docker, AI, AWS**
+ 🌱 I’m currently learning **DevOps**
 
 💬 You can ask me about **JS, MySQL, Web Developement... or other things [here](https://github.com/phoenixdev100/phoenixdev100/issues)**
 
 ⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌍 Connect with Me</h2>
 
 <div align="center"> 
   <a href="https://github.com/phoenixdev100" target="_blank">
