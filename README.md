@@ -10,9 +10,13 @@
 
 <!--Bio/About Part-->
 
+
+<!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+Database+Administrator;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Deepak,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems+💡;Tech+Enthusiast+⚡+and+Lifelong+Learner+📚;Problem+Solver+who+loves+clean+code+🧠;System+Admin+%26+Database+Expert+🛠️;Always+building,+exploring,+and+growing+🚀">
 </h1>
+
 
 
 <!--<h1 align="center">-->
@@ -161,5 +165,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: March 2024
+  Made with 💖 by Deepak | Last updated: April 2025
 </div>
