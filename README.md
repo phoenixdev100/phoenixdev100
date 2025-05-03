@@ -151,9 +151,9 @@
 
 <div align="center">
   <h2>💖 Support My Work 💖</h2>
-  <a href="https://www.buymeacoffee.com/phoenixdev100">
+<!--   <a href="https://www.buymeacoffee.com/phoenixdev100">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+  </a> -->
   <a href="https://github.com/sponsors/phoenixdev100">
     <img src="https://img.shields.io/badge/Sponsor_on_GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#white" alt="GitHub Sponsor"/>
   </a>
@@ -165,5 +165,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: April 2025
+  Made with 💖 by Deepak | Last updated: May 2025
 </div>
