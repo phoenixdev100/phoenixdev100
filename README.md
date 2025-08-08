@@ -1,6 +1,6 @@
 <!--Logo-->
 
-![logo]([https://i.postimg.cc/BQt8rKfy/Github-Banner.png])
+![logo](https://i.postimg.cc/BQt8rKfy/Github-Banner.png)
 
 <!--Header Part-->
 
@@ -165,5 +165,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: May 2025
+  Made with 💖 by Deepak | Last updated: Aug 2025
 </div>
