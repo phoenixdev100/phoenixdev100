@@ -1,6 +1,6 @@
 <!--Logo-->
 
-![logo](https://github.com/phoenixdev100/phoenixdev100/blob/main/Github%20Banner.png)
+![logo]([https://i.postimg.cc/BQt8rKfy/Github-Banner.png])
 
 <!--Header Part-->
 
