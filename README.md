@@ -165,5 +165,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: Aug 2025
+  Made with 💖 by Deepak | Last updated: Dec 2025
 </div>
