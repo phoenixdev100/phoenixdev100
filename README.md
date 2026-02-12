@@ -43,7 +43,7 @@
   <a href="https://github.com/phoenixdev100" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&hover=blue" />
   </a>
-  <a href="mailto:support@phoenixdev100.tech" target="_blank">
+  <a href="mailto:support@phoenixdev100.me" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codolio.com/profile/phoenixdev100" target="_blank">
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/phoenixdev100" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://phoenixdev100.tech" target="_blank">
+  <a href="https://phoenixdev100.me" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://twitter.com/phoenixdev100" target="_blank">
@@ -165,5 +165,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: Dec 2025
+  Made with 💖 by Deepak | Last updated: Feb 2026
 </div>
