@@ -1,6 +1,6 @@
 <!--Logo-->
 
-![logo](https://i.postimg.cc/BQt8rKfy/Github-Banner.png)
+![logo](https://i.postimg.cc/Px7x0CS4/Green-Simple-Manager-Linked-In-Banner.png)
 
 <!--Header Part-->
 
@@ -10,32 +10,23 @@
 
 <!--Bio/About Part-->
 
-
-<!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Deepak,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Deepak,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!;I'm+Deepak,+a+DevSecOps+Engineer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;Always+building,+exploring,+and+growing+🚀">
 </h1>
 
-
-
-<!--<h1 align="center">-->
-<!--    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak!;+I'm+a+software+Developer;+A+system+Administrator;+A+Database+Administrator;+and+a+tech+enthusiast+too.;"/>-->
-<!--</h1>-->
-
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate DevSecOps Engineer from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **TAP (Training, Academics, and Placement) Web App**
+ 🔭 I’m currently working on **Execution Engine / Coding Compiler**
  
- 🌱 I’m currently learning **DevOps**
+ 🌱 I’m currently learning **System Design**
 
-💬 You can ask me about **JS, MySQL, Web Developement... or other things [here](https://github.com/phoenixdev100/phoenixdev100/issues)**
+💬 You can ask me about **DevOps, Full Stack Developement... or other things [here](https://github.com/phoenixdev100/phoenixdev100/issues)**
 
-⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
+⚡ Fun fact **:** **In 2026, a Cloudflare software bug accidentally made 1,100+ Internet routes disappear, causing websites to go offline for 6+ hours.**
 
 <h2 align="center">🌍 Connect with Me 🌍</h2>
 
@@ -78,8 +69,9 @@
 </h2>
 <br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,aws,gcp,linux,bash" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,idea,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,cpp,java,php,mysql,nginx,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,cpp,java,php,mysql,nginx,postgres" /><br>
 </div>
 
 <br/>
@@ -102,8 +94,8 @@
 
 <div align=center>
   <img height="180em" src="https://streak-stats.demolab.com/?user=phoenixdev100&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdev100&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixdev100&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixdev100&theme=github_dark" />
@@ -111,24 +103,24 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phoenixdev100&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoenixdev100&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phoenixdev100&theme=github_dark" />
-  <img height="220em" width="615em" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixdev100&theme=redical&layout" alt="Contribution Graph" />
+  <!-- <img height="220em" width="615em" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixdev100&theme=redical&layout" alt="Contribution Graph" /> -->
 </p>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-<!--Achievements and Awards-->
+<!-- Achievements and Awards
 
 <h2 align="center">🏆 Achievements 🏆</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=phoenixdev100&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</div>
+</div> -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 <!--Projects Showcase-->
 
-<h2 align="center">🛠️ Projects Showcase 🛠️</h2>
+<!-- <h2 align="center">🛠️ Projects Showcase 🛠️</h2>
 <div align="center">
   <a href="https://github.com/phoenixdev100/attendance-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=attendance-assistant&theme=react&border_radius=10" alt="Project 1" />
@@ -142,7 +134,7 @@
   <a href="https://github.com/phoenixdev100/next-js-video-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixdev100&repo=next-js-video-hub&theme=react&border_radius=10" alt="Project 4" />
   </a>
-</div>
+</div> -->
 
 <br/> <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -165,5 +157,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by Deepak | Last updated: Feb 2026
+  Made with 💖 by Deepak | Last updated: Sept 2026
 </div>
