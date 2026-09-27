@@ -1,6 +1,6 @@
 <!--Logo-->
 
-![logo](https://i.postimg.cc/Px7x0CS4/Green-Simple-Manager-Linked-In-Banner.png)
+![logo](https://i.postimg.cc/2544j5c7/Green-Simple-Manager-Linked-In-Banner.png)
 
 <!--Header Part-->
 
